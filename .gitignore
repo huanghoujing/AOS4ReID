@@ -1,0 +1,9 @@
+.idea/
+/exp
+/tmp
+/dataset
+/model_weight
+__pycache__/
+*.pyc
+.DS_Store
+._*
